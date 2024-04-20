@@ -5,5 +5,5 @@ In this repository "demo_projects", there exists two machine learning projects. 
 4. Execution of the model for the required result.
 
 The first project would be the prediction of performance score of the CPUs. (py_code)
-The second project would be the prediction of train delay based on past 30 days of data.
+The second project would be the prediction of train delay based on past 30 days of data. (delay_code)
 
